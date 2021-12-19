@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C#\ListProject\ListProject\bin\Debug\netcoreapp3.1\ListProject.exe
+C:\Users\ASUS\Desktop\C#\ListProject\ListProject\bin\Debug\netcoreapp3.1\ListProject.deps.json
+C:\Users\ASUS\Desktop\C#\ListProject\ListProject\bin\Debug\netcoreapp3.1\ListProject.runtimeconfig.json
+C:\Users\ASUS\Desktop\C#\ListProject\ListProject\bin\Debug\netcoreapp3.1\ListProject.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C#\ListProject\ListProject\bin\Debug\netcoreapp3.1\ListProject.dll
+C:\Users\ASUS\Desktop\C#\ListProject\ListProject\bin\Debug\netcoreapp3.1\ListProject.pdb
+C:\Users\ASUS\Desktop\C#\ListProject\ListProject\obj\Debug\netcoreapp3.1\ListProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\ListProject\ListProject\obj\Debug\netcoreapp3.1\ListProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C#\ListProject\ListProject\obj\Debug\netcoreapp3.1\ListProject.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C#\ListProject\ListProject\obj\Debug\netcoreapp3.1\ListProject.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C#\ListProject\ListProject\obj\Debug\netcoreapp3.1\ListProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\ListProject\ListProject\obj\Debug\netcoreapp3.1\ListProject.dll
+C:\Users\ASUS\Desktop\C#\ListProject\ListProject\obj\Debug\netcoreapp3.1\ListProject.pdb
+C:\Users\ASUS\Desktop\C#\ListProject\ListProject\obj\Debug\netcoreapp3.1\ListProject.genruntimeconfig.cache
